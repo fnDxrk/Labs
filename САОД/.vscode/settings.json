@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "*.tcc": "cpp",
+        "iostream": "cpp",
+        "random": "cpp",
+        "string": "cpp",
+        "ostream": "cpp",
+        "chrono": "cpp",
+        "sstream": "cpp",
+        "array": "cpp"
+    }
+}
